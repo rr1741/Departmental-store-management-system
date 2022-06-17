@@ -1,1 +1,0 @@
-# Departmental-store-management-system
